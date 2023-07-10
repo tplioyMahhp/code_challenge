@@ -1,6 +1,6 @@
-# Code Challenge Readme
+# Code Challenge
 
-Welcome to the code challenge for the recruiting process! This challenge consists of creating a Habit CRUD API using Python and Flask, and a Flutter app to consume the API and provide basic functionality for managing habits.
+Welcome! This challenge consists of creating a Habit CRUD API using Python and Flask, and a Flutter app to consume the API and provide basic functionality for managing habits.
 
 ## Task Description
 
