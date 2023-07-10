@@ -6,7 +6,7 @@ Welcome! This challenge consists of creating a Habit CRUD API using Python and F
 
 Your task is to create a Habit CRUD API with Python using the Flask framework. The API should provide endpoints to perform the following operations:
 
-## List all habits
+- List all habits
 - Create a new habit
 - Update an existing habit
 - Delete a habit
