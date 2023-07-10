@@ -1,6 +1,6 @@
 # Code Challenge
 
-Welcome! This challenge consists of creating a Habit CRUD API using Python and Flask, and a Flutter app to consume the API and provide basic functionality for managing habits.
+Welcome! This challenge consists of creating a Habit CRUD API using Python and Flask, and a Client to consume the API and provide basic functionality for managing habits.
 
 ## Task Description
 
